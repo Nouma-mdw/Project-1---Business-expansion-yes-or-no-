@@ -60,7 +60,7 @@ only looking for data that would support our statement.
 Actually there was one fact which, once enriched with data from the context, changed from supporting the decision of cooperating with the OMS
 to rejecting it. ANd this argument resulted being decisive.
 
-### 3) Weichting Arguments ###
+### 3) Weighting Arguments ###
 Each question did have its own arguments for or against or both. These arguments had to be weighted to acertain a final answer.
 And in the end the answer to each question was in itself an argument for or against the company working with local OMS.
 So the weighting of  arguments happened her to. We used this weighting of arguments for our conclusion.
