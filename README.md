@@ -1,3 +1,9 @@
+DISCLAIMER
+
+### This Proile is under construction. Please visit in a few months! I'll be happy to have you back!
+### Best wishes, Manuel
+
+
 # Database analysis for business decision
 Project 1 of the Coding Bootcamp (October 22 - February 23) - Software: SQL and Tableau
 
@@ -36,7 +42,7 @@ Independent work process and results
 
 ---
 
-## Task to accomplish (see word Document - to be uploaded till next week): ##
+## Task to accomplish (see word Document - to be uploaded....): ##
 ### 1) Exploring the database... ###
 for different questions that can be answered using the given data, exploring using SQL.
 ### 2) Setting up struture... ###
