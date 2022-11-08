@@ -1,6 +1,6 @@
 DISCLAIMER
 
-### This Proile is under construction. Please visit in a few months! I'll be happy to have you back!
+### This Profile is under construction. Please visit in a few months! I'll be happy to have you back!
 ### Best wishes, Manuel
 
 
